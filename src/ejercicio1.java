@@ -1,4 +1,4 @@
-public class xd {
+public class ejercicio1 {
     static int sTres=0;
     static int sCinco=0;
     static int sAmbos=0;
